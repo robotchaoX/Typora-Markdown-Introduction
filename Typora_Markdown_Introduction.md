@@ -1,4 +1,4 @@
-# Tpyora – Markdown 简介
+# Typora – Markdown 简介
 
 ---------------------------
 
