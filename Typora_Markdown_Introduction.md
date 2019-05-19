@@ -176,10 +176,13 @@ X^2^
 ```markdown
 :smile:
 :eyes:
+:+1:
 ```
 :smile:
 
 :eyes:
+
+:+1:
 
 ### Inline Math  行内公式  \$ … $
 
