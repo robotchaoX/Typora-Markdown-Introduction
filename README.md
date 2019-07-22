@@ -1,4 +1,4 @@
-# Typora_Markdown_Introduction
+# Typora-Markdown-Introduction
 Typora编辑器和Markdown语法简介
 
 log:
